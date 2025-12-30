@@ -90,7 +90,7 @@ const Contact = () => {
                     Email
                   </h3>
                   <p className="font-lato text-muted-foreground">
-                    contact@ezzmed.in
+                    ezzmedofficial@gmail.com
                   </p>
                 </div>
               </div>
